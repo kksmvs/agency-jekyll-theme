@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
+=======
+url: ""
+baseurl: ""
+>>>>>>> origin/gh-pages
 
 # Site settings
 title: Montessori-Therapie
